@@ -2,6 +2,8 @@ package devforrest.mario.core;
 
 import javax.swing.JFrame;
 
+// This is the main entry point..
+
 public class GameFrame extends JFrame {
 	
 	public GameFrame() {	
